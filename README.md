@@ -64,8 +64,8 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
 ## Instalation
-Make new database mySQL with name "blog-test"
-Run in terminal:
-php artisan migrate
-php artisan db:seed
-php artisan serve
+<h5>Make new database mySQL with name "blog-test"</h5>
+<h5>Run in terminal:</h5>
+<p>php artisan migrate<br>
+php artisan db:seed<br>
+php artisan serve</p>
